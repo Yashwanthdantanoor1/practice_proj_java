@@ -1,5 +1,4 @@
 package com.wallet.domain;
-
 import lombok.*;
 
 @Getter

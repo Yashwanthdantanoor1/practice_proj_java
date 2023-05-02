@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="e-wallet" />
+        <module name="emp-app" />
         <module name="first_java_proj" />
       </profile>
     </annotationProcessing>
