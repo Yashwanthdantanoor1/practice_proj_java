@@ -8,7 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="e-wallet" />
+        <module name="first_java_proj (2)" />
         <module name="emp-app" />
+        <module name="first_java_proj (1)" />
+        <module name="learning-jdbc" />
         <module name="first_java_proj" />
       </profile>
     </annotationProcessing>
